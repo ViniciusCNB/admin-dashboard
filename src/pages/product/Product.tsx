@@ -5,7 +5,7 @@ import "./product.scss"
 const Product = () => {
   return (
     <div className="product">
-      <Single {...singleProduct} />
+      <Single {...singleProduct} />  
     </div>
   )
 }
